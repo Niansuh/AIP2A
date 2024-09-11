@@ -11,7 +11,7 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/hf/v1/chat/completions",
       "dest": "/app.py"
     }
   ]
